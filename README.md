@@ -1,2 +1,2 @@
-# getor_final
- trabao final
+# final_intro_app
+ trabajo final de gestor de tareas
